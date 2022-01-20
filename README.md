@@ -2,4 +2,6 @@
 
 A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\f(x)=sin(x))
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=\color{white}\large\f(x)=sin(x)" alt="Eq1"/>
+</p>
