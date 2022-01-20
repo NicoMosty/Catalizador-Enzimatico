@@ -1,4 +1,3 @@
-# Catalizador-Enzimatico-Python-
-Perfiles de Concentracion en funcion de Radio - Enzima Catalitica Inmobilizada
+# Transferencia simultánea de masa & reacción bioquímica en el soporte esférico:
 
-Prueba v3.0
+A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
