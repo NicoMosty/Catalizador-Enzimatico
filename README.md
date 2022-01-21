@@ -1,5 +1,6 @@
 <h1 align="center">Taller 5</h1>
 <p align="center">Nicolas Puentes Urrego</p>
+<p align="center">Ingenieria Enzimática</p>
 
 ---
 
