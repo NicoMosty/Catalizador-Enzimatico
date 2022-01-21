@@ -27,7 +27,7 @@ Para poder realizar el calculo se definió un <span align="center"><img style="b
 Para calcular lo anterior se realizó un algoritmo en *Python*. El código se
 encuentra en el siguiente link:
 
-[https://github.com/NicoMosty/Catalizador-Enzimatico-Python](https://github.com/NicoMosty/Catalizador-Enzimatico-Python-)
+[https://github.com/NicoMosty/Catalizador-Enzimatico](https://github.com/NicoMosty/Catalizador-Enzimatico)
 
 Los resultados se muestran a continuación:
 
