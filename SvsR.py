@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 #___CONSTANTES__#
 dr=5e-4
-Beta=np.array([10])
+Beta=np.array([0.01,0.05,0.1,0.5,1,5,10])
 Phi=np.array([1,2,3,5,10,20,25,50,75,100])
 
 #_____GENERAR VECTOR DE RADIOS____#
@@ -56,7 +56,7 @@ def SvsR(phi,beta):
     So=0
     C2=0
     while True:
-        if 0.9<S[R.size-1] and C2==0:
+        if 0.9<S[R.size-1] and C2==0 and beta>1:
             dSo=dSo*0.05
             C2=1
         for i in range(R.size):
@@ -97,6 +97,5 @@ for B in Beta:
     plt.title("Beta={}".format(B))
     plt.xlabel("r/R")
     plt.ylabel("S/S∞")
-    # plt.savefig("Beta-{}.png".for
-    # mat(B))
+    plt.savefig("Images/Beta-{}.png".format(B))
     plt.show()
