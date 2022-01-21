@@ -83,6 +83,8 @@ def SvsR(phi,beta):
 
 # Matriz Concentraciones
 SS=np.zeros((Phi.size,R.size))
+
+# Loop de Calculo de Concentraciones Cambiando Beta y Phi
 for B in Beta:
     for P in Phi:
         SvsR(P,B)
