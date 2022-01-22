@@ -1,10 +1,4 @@
-<h1 align="center">Taller 5</h1>
-<p align="center">Nicolas Puentes Urrego</p>
-<p align="center">Ingenieria Enzimática</p>
-
----
-
-<h3 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
+<h2 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
 A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
 
 <div align="center"><img style="background: white;" src="eq\BmqQnjNriH.svg"></div>
