@@ -34,10 +34,10 @@ encuentra en el siguiente link:
 
 Los resultados se muestran a continuación:
 
-![beta=10](Images/Beta-10.0.png)
-![beta=10](Images/Beta-5.0.png)
-![beta=10](Images/Beta-1.0.png)
-![beta=10](Images/Beta-0.5.png)
-![beta=10](Images/Beta-0.1.png)
-![beta=10](Images/Beta-0.05.png)
-![beta=10](Images/Beta-0.01.png)
+<div align="center"><img style="background: white;" src="Images/Beta-10.0.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-5.0.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-1.0.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-0.5.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-0.1.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-0.05.png"></div>
+<div align="center"><img style="background: white;" src="Images/Beta-0.01.png"></div>
