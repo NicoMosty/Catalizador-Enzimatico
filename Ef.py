@@ -101,7 +101,7 @@ for B in Beta:
         print("Beta={:5}|Phi={:5}|Ef={:5.3f}".format(B,P,Ef[list(Beta).index(B),list(Phi).index(P)]))
     print("______________________________")
 
-# Graficar SvsR 
+# Graficar Factor de Efectividad vs Thiele ^ Beta
 for B in Beta:
     plt.plot(np.log(Phi), np.log(Ef[list(Beta).index(B)]), label= "Beta={}".format(B))
 plt.xlim(0,math.log(100))
