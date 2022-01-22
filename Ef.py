@@ -98,15 +98,3 @@ for B in Beta:
         print("Beta={:5}|Phi={:5}|Ef={:5}".format(B,P,Ef[list(Beta).index(B),list(Phi).index(P)]))
         print("OK")
         print("__________________________________________")
-
-    # Graficar Eficiencia
-    for P in Phi:
-        plt.plot(R, SS[list(Phi).index(P)], label = "Phi={}".format(P))
-    plt.xlim(0,1)
-    plt.ylim(0,1)
-    plt.legend()
-    plt.title("Beta={}".format(B))
-    plt.xlabel("r/R")
-    plt.ylabel("S/S∞")
-    plt.savefig("Images/Beta-{}.png".format(B))
-    plt.show()
