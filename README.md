@@ -7,12 +7,12 @@
 <h3 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
 A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
 
-<!-- $$
-\begin{equation}\tag{1}
-\frac{d^{2} S}{dr^{2}} +\frac{dS}{dr}\frac{2}{r} -\phi ^{2}\frac{\beta *S}{\beta +S} =0
-\end{equation}
-$$ --> 
 <div align="center"><img style="background: white;" src="svg\BmqQnjNriH.svg"></div>
+
+Para el caso del radio inicial 
+<span align="center"><img style="background: white;" src="svg\df5Zwv1KvJ.svg"></span>
+
+<div align="center"><img style="background: white;" src="svg\a3OeoYVWBx.svg"></div>
 
 Para poder hallar la distribución se utiliza la siguiente distribución con tablas, donde: 
 <div align="center"><img style="background: white;" src="svg\Screenshot_1.png"></div>
@@ -21,7 +21,9 @@ Se puede ver en la tabla que se supone un valor de <span align="center"><img sty
 
 Para hacer lo anterior se definen los siguientes invervalos de <span align="center"><img style="background: white;" src="svg\NG6Wf3CbzN.svg"></span> , donde:
 
-<div align="center"><img style="background: white;" src="svg\XJB38zhhJI.svg"></div>
+<div align="center"><img style="background: white;" src="svg\pRHcd00R4e.svg"></div>
+
+<div align="center"><img style="background: white;" src="svg\ZPrwbSIlio.svg"></div>
 
 Para poder realizar el calculo se definió un <span align="center"><img style="background: white;" src="svg\WrAgk89JJb.svg"></span>
 
