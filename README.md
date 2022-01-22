@@ -30,7 +30,7 @@ Para poder realizar el calculo se definió un <span align="center"><img style="b
 Para calcular lo anterior se realizó un algoritmo en *Python*. El código se
 encuentra en el siguiente link:
 
-[Programa en Python](SvsR.py)
+[Programa en Python (Concentración Sustrato vs Radio)](SvsR.py)
 
 Los resultados se muestran a continuación:
 
