@@ -93,10 +93,6 @@ for B in Beta:
     for P in Phi:
         SvsR(P,B) 
         SS[list(Phi).index(P)]=St
-        Ef[list(Beta).index(B),list(Phi).index(P)]=3*dSt/(P*P*B/(B+1))
-        print("Beta={:5}|Phi={:5}|Ef={:5}".format(B,P,Ef[list(Beta).index(B),list(Phi).index(P)]))
-        print("OK")
-        print("__________________________________________")
 
     # Graficar SvsR
     for P in Phi:
