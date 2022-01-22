@@ -1,4 +1,4 @@
-<h2 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
+<h1 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
 A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
 
 <div align="center"><img style="background: white;" src="eq\BmqQnjNriH.svg"></div>
@@ -34,8 +34,4 @@ Los resultados se muestran a continuación:
 <div align="center"><img style="background: white;" src="Images/Beta-0.5.png"></div>
 <div align="center"><img style="background: white;" src="Images/Beta-0.1.png"></div>
 <div align="center"><img style="background: white;" src="Images/Beta-0.05.png"></div>
-<<<<<<< HEAD
 <div align="center"><img style="background: white;" src="Images/Beta-0.01.png"></div>
-=======
-<div align="center"><img style="background: white;" src="Images/Beta-0.01.png"></div>
->>>>>>> main
