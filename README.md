@@ -1,4 +1,7 @@
-<h1 align="center">Transferencia simultánea de masa & reacción bioquímica en el soporte esférico</h1>
+<h1 align="center">
+    Transferencia simultánea de masa & reacción bioquímica en el soporte esférico
+</h1>
+
 A continuación se muestra la ecuación diferencial que representa la transferencia simultanea de masa y reacción química dentro del biocatalizador enzimático, donde:
 
 <div align="center"><img style="background: white;" src="eq\BmqQnjNriH.svg"></div>
@@ -30,6 +33,9 @@ encuentra en el siguiente link:
         Programa en Python (Concentración Sustrato vs Radio)
     </p>
 </a>
+<div align="center">
+    El programa se llama SvsR.py.py
+</div>
 
 Los resultados se muestran a continuación:
 
@@ -40,3 +46,36 @@ Los resultados se muestran a continuación:
 <div align="center"><img style="background: white;" src="S-vs-r/Beta-0.1.png"></div>
 <div align="center"><img style="background: white;" src="S-vs-r/Beta-0.05.png"></div>
 <div align="center"><img style="background: white;" src="S-vs-r/Beta-0.01.png"></div>
+
+---
+
+<h4 align="center">
+    Cálculo del Factor de Efectividad (μ)
+</h1>
+ 
+ Para el calculo del factor de efectividad se tiene la siguiente ecuación:
+
+<div align="center"><img style="background: white;" src="eq\ipULTE2L4e.svg"></div>
+
+Donde se tienen los siguientes valores
+
+<div align="center"><img style="background: white;" src="eq\jY2H7WsER5.svg"></div>
+
+Para el cálculo se requiere de la derivada de la concentración en la superficie externa del biocatalizador esférico, donde este valor fue encontrado anteriormente. Para hacer lo anterior se definen los siguientes invervalos de 𝛽 y 𝜙, donde:
+
+<div align="center"><img style="background: white;" src="eq\a2GAzenuir.svg"></div>
+
+Para calcular lo anterior se realizó un algoritmo en Python (El código se encuentra en el siguiente link)
+
+<a href="Ef.py">
+    <p align="center">
+        Programa en Python (Factor de Efectividad)
+    </p>
+</a>
+<div align="center">
+    El programa se llama Ef.py
+</div>
+
+El resultado hallado se encuentra a continuación:
+
+<div align="center"><img style="background: white;" src="Phi^Beta-vs-Ef.png"></div>
