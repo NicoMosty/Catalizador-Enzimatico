@@ -103,5 +103,5 @@ for B in Beta:
     plt.title("Beta={}".format(B))
     plt.xlabel("r/R")
     plt.ylabel("S/S∞")
-    plt.savefig("Images/Beta-{}.png".format(B))
+    plt.savefig("S-vs-r/Beta-{}.png".format(B))
     plt.show()
